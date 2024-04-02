@@ -18,9 +18,8 @@
 </p>
 
 <h2>Ссылки на репозитории моих работ:</h2>
-<a href="https://github.com/milenairon/how-to-learn" target="_blank" rel="noopener noreferrer">Статичный сайт</a>
-<a href="https://github.com/milenairon/russian-travel" target="_blank" rel="noopener noreferrer">Адаптивный сайт</a>
-<a href="https://github.com/milenairon/react-mesto-api-full-gha" target="_blank" rel="noopener noreferrer">Одностраничное приложение</a>
-<a href="https://github.com/milenairon/movies-explorer-frontend" target="_blank" rel="noopener noreferrer">Многостраничное приложение(фронтенд)</a>
-<a href="https://github.com/milenairon/movies-explorer-api" target="_blank" rel="noopener noreferrer">Многостраничное приложение(бэкэнд)</a>
----
+<a style="text-decoration: none;" href="https://github.com/milenairon/how-to-learn" target="_blank" rel="noopener noreferrer">Статичный сайт</a><br>
+<a href="https://github.com/milenairon/russian-travel" target="_blank" rel="noopener noreferrer">Адаптивный сайт</a><br>
+<a href="https://github.com/milenairon/react-mesto-api-full-gha" target="_blank" rel="noopener noreferrer">Одностраничное приложение</a><br>
+<a href="https://github.com/milenairon/movies-explorer-frontend" target="_blank" rel="noopener noreferrer">Многостраничное приложение(фронтенд)</a><br>
+<a href="https://github.com/milenairon/movies-explorer-api" target="_blank" rel="noopener noreferrer">Многостраничное приложение(бэкэнд)</a><br>
