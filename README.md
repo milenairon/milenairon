@@ -6,7 +6,9 @@
 <img src='https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif' alt='котик за компьютером'>
 </p>
 
-<h2>Обо мне:</h2>
+<h2><img width='30' src='https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-zheltii-znachok-na-prozrachnom-fone-37.png' alt='силуэт человека'/>
+<img width='30' src='https://w1.pngwing.com/pngs/957/308/png-transparent-power-icon-user-avatar-powerbuilder-user-interface-power-user-version-control-icon-design.png' alt='силуэт человека'/>
+Обо мне:</h2>
 <p>
 Я живу в Новосибирске, закончила специалитет по направлению
 "Строительство уникальных зданий и сооружений" на факультете
@@ -17,50 +19,50 @@
 специалист.
 </p>
 
-<h2>Ссылки на репозитории моих работ:</h2>
+<h2><img width='30' src='https://gogeticon.net/files/2824109/1a210d70508bdd59a3cee6a0109edbe5.png' alt='конверт'/>Ссылки на репозитории моих работ:</h2>
 <a style="text-decoration: none" href="https://github.com/milenairon/how-to-learn" target="_blank">Статичный сайт</a><br>
 <a href="https://github.com/milenairon/russian-travel" target="_blank" rel="noopener noreferrer">Адаптивный сайт</a><br>
 <a href="https://github.com/milenairon/react-mesto-api-full-gha" target="_blank" rel="noopener noreferrer">Одностраничное приложение</a><br>
 <a href="https://github.com/milenairon/movies-explorer-frontend" target="_blank" rel="noopener noreferrer">Многостраничное приложение(фронтенд)</a><br>
 <a href="https://github.com/milenairon/movies-explorer-api" target="_blank" rel="noopener noreferrer">Многостраничное приложение(бэкэнд)</a><br>
 
-<h2>Технологии и инструменты:</h2>
+<h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
 <p align='center'>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Иконка 'React'">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Иконка 'JavaScript'">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Иконка 'HTML5'">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Иконка 'СSS3'">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Иконка 'Flexbox'">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'Grid Layout'">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'DOM'">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="СSS3">
+<img src="https://sun9-50.userapi.com/impg/yqrF5xoKxM6P6O_MRErhkn6-DbI_D0uxcHCR8Q/KFnbk5tX_7M.jpg?size=204x35&quality=95&sign=cc2aa497a077600b57e43f00a230c375&type=album" alt="Flexbox">
+<img src="https://sun9-55.userapi.com/impg/dpe6S6TOdntAdNASmpNdrqTZDuMEliCSDwhpkQ/ZMO6CgGZf8o.jpg?size=96x35&quality=95&sign=ab3b72d2a45dd8302a62067557c1809a&type=album" alt="Grid Layout">
+<img src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="DOM">
 
 </p>
 
 <h3>Бэкэнд</h3>
 <p align='center'>
-<p style="background-color: red; color: white">1<p>
-<p style="color: red">2<p>
-<p style="background-color: red">3<p>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Иконка 'Express'">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Иконка 'MongoDB'">
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Иконка 'NGINX'">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
 </p>
 
 <h3>Общее</h3>
 <p align='center'>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Иконка 'Git'">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Иконка 'Bash'">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Иконка 'Markdown'">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Иконка 'Figma'">
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Иконка 'Webpack'">
-<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Иконка 'Babel'">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'Postman'">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Иконка 'ООП'">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="Bash">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack">
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+<img src="https://sun9-65.userapi.com/impg/5lAiMpzdCCKD324dRYiu1fkAW66fechPQ1inSw/_5r18kLoe44.jpg?size=79x35&quality=95&sign=19bf48704467daefe203036880eec7e7&type=album" alt="ООП">
 </p><br>
 <p align='center'>
-__________________________________________________________________________________________________________________
+
+---
+
 </p>
-<p align='center' style="weight: 40">Спасибо, что посетили мой профиль на github</p>
+<p align='center' style="weight: 40">Спасибо, что посетили мой профиль на github
+<img width='50' src="https://sun9-64.userapi.com/impg/_f6e68yVxNrIpO6KdD1dhovvWpp85AddUCEQYw/d_GCP08SIOA.jpg?size=575x357&quality=95&sign=65e6a900427d231e62a79dcc9684b828&type=album" alt="рука с желтым сердечком"></p>
