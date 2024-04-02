@@ -6,8 +6,7 @@
 <img src='https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif' alt='котик за компьютером'>
 </p>
 
-<h2><img width='30' src='https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-zheltii-znachok-na-prozrachnom-fone-37.png' alt='силуэт человека'/>
-<img width='30' src='https://w1.pngwing.com/pngs/957/308/png-transparent-power-icon-user-avatar-powerbuilder-user-interface-power-user-version-control-icon-design.png' alt='силуэт человека'/>
+<h2><img width='30' src='https://yt3.ggpht.com/ytc/AKedOLQTMlNsgEeKpIaInj42WsnAfZU3RiZEyZaj2AjJ=s900-c-k-c0x00ffffff-no-rj' alt='силуэт человека'/>
 Обо мне:</h2>
 <p>
 Я живу в Новосибирске, закончила специалитет по направлению
@@ -34,9 +33,9 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="СSS3">
-<img src="https://sun9-50.userapi.com/impg/yqrF5xoKxM6P6O_MRErhkn6-DbI_D0uxcHCR8Q/KFnbk5tX_7M.jpg?size=204x35&quality=95&sign=cc2aa497a077600b57e43f00a230c375&type=album" alt="Flexbox">
-<img src="https://sun9-55.userapi.com/impg/dpe6S6TOdntAdNASmpNdrqTZDuMEliCSDwhpkQ/ZMO6CgGZf8o.jpg?size=96x35&quality=95&sign=ab3b72d2a45dd8302a62067557c1809a&type=album" alt="Grid Layout">
-<img src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="DOM">
+<img  height='21.6' src="https://sun9-50.userapi.com/impg/yqrF5xoKxM6P6O_MRErhkn6-DbI_D0uxcHCR8Q/KFnbk5tX_7M.jpg?size=204x35&quality=95&sign=cc2aa497a077600b57e43f00a230c375&type=album" alt="Flexbox">
+<img  height='21.6' src="https://sun9-55.userapi.com/impg/dpe6S6TOdntAdNASmpNdrqTZDuMEliCSDwhpkQ/ZMO6CgGZf8o.jpg?size=96x35&quality=95&sign=ab3b72d2a45dd8302a62067557c1809a&type=album" alt="Grid Layout">
+<img height='21.6' src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="DOM">
 
 </p>
 
@@ -51,13 +50,13 @@
 <h3>Общее</h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="Bash">
+<img height='22' src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="Bash">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack">
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-<img src="https://sun9-65.userapi.com/impg/5lAiMpzdCCKD324dRYiu1fkAW66fechPQ1inSw/_5r18kLoe44.jpg?size=79x35&quality=95&sign=19bf48704467daefe203036880eec7e7&type=album" alt="ООП">
+<img height='20' src="https://sun9-65.userapi.com/impg/5lAiMpzdCCKD324dRYiu1fkAW66fechPQ1inSw/_5r18kLoe44.jpg?size=79x35&quality=95&sign=19bf48704467daefe203036880eec7e7&type=album" alt="ООП">
 </p><br>
 <p align='center'>
 
