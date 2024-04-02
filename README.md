@@ -32,10 +32,10 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img  height='27.5' src="https://sun9-50.userapi.com/impg/yqrF5xoKxM6P6O_MRErhkn6-DbI_D0uxcHCR8Q/KFnbk5tX_7M.jpg?size=204x35&quality=95&sign=cc2aa497a077600b57e43f00a230c375&type=album" alt="Flexbox">
+<img  height='28' src="https://sun9-50.userapi.com/impg/yqrF5xoKxM6P6O_MRErhkn6-DbI_D0uxcHCR8Q/KFnbk5tX_7M.jpg?size=204x35&quality=95&sign=cc2aa497a077600b57e43f00a230c375&type=album" alt="Flexbox">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="СSS3">
-<img  height='27.5' src="https://sun9-55.userapi.com/impg/dpe6S6TOdntAdNASmpNdrqTZDuMEliCSDwhpkQ/ZMO6CgGZf8o.jpg?size=96x35&quality=95&sign=ab3b72d2a45dd8302a62067557c1809a&type=album" alt="Grid Layout">
-<img height='27.5' src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="DOM">
+<img  height='28' src="https://sun9-55.userapi.com/impg/dpe6S6TOdntAdNASmpNdrqTZDuMEliCSDwhpkQ/ZMO6CgGZf8o.jpg?size=96x35&quality=95&sign=ab3b72d2a45dd8302a62067557c1809a&type=album" alt="Grid Layout">
+<img height='28' src="https://sun9-80.userapi.com/impg/e3wihTk_eG2uU-ly2jPT44UKxzswSF_WDrmmlg/zdz1Pcv8sBg.jpg?size=202x78&quality=95&sign=748da811ec7c6edfcd4e9eb5d4e4b777&type=album" alt="DOM">
 
 </p>
 
@@ -50,13 +50,13 @@
 <h3>Общее</h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img height='27.5' src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="Bash">
+<img height='28' src="https://sun9-51.userapi.com/impg/rMwapIGif1kuoFoQLNbpA5b7yaqfd8QHMN3FEQ/2xYG18XNETg.jpg?size=104x35&quality=95&sign=e5cb455670c3e043253ec2ead084282a&type=album" alt="Bash">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack">
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-<img height='27.5' src="https://sun9-65.userapi.com/impg/5lAiMpzdCCKD324dRYiu1fkAW66fechPQ1inSw/_5r18kLoe44.jpg?size=79x35&quality=95&sign=19bf48704467daefe203036880eec7e7&type=album" alt="ООП">
+<img height='28' src="https://sun9-65.userapi.com/impg/5lAiMpzdCCKD324dRYiu1fkAW66fechPQ1inSw/_5r18kLoe44.jpg?size=79x35&quality=95&sign=19bf48704467daefe203036880eec7e7&type=album" alt="ООП">
 </p><br>
 <p align='center'>
 
