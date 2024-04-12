@@ -18,11 +18,12 @@
 </p>
 
 <h2><img width='30' src='https://gogeticon.net/files/2824109/1a210d70508bdd59a3cee6a0109edbe5.png' alt='конверт'/>Ссылки на репозитории моих работ:</h2>
-<a style="text-decoration: none" href="https://github.com/milenairon/how-to-learn" target="_blank">Статичный сайт</a><br>
-<a href="https://github.com/milenairon/russian-travel" target="_blank" rel="noopener noreferrer">Адаптивный сайт</a><br>
-<a href="https://github.com/milenairon/react-mesto-api-full-gha" target="_blank" rel="noopener noreferrer">Одностраничное приложение</a><br>
-<a href="https://github.com/milenairon/movies-explorer-frontend" target="_blank" rel="noopener noreferrer">Многостраничное приложение(фронтенд)</a><br>
-<a href="https://github.com/milenairon/movies-explorer-api" target="_blank" rel="noopener noreferrer">Многостраничное приложение(бэкэнд)</a><br>
+<a style="text-decoration: none" href="https://github.com/milenairon/how-to-learn" target="_blank">Статичный сайт на JS</a><br>
+<a href="https://github.com/milenairon/russian-travel" target="_blank" rel="noopener noreferrer">Адаптивный сайт на JS</a><br>
+<a href="https://github.com/milenairon/mesto" target="_blank" rel="noopener noreferrer">Одностраничное приложение на JS</a><br>
+<a href="https://github.com/milenairon/react-mesto-api-full-gha" target="_blank" rel="noopener noreferrer">Одностраничное приложение на React и JS</a><br>
+<a href="https://github.com/milenairon/movies-explorer-frontend" target="_blank" rel="noopener noreferrer">Многостраничное приложение(фронтенд) на React и JS</a><br>
+<a href="https://github.com/milenairon/movies-explorer-api" target="_blank" rel="noopener noreferrer">Многостраничное приложение(бэкэнд) на JS</a><br>
 
 <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
