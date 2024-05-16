@@ -27,7 +27,7 @@
 
 <h3><img width='24'/>Ссылки на выполненные тестовые задания:</h3>
 <a href="https://github.com/milenairon/test-task-SiberiaTransAsia" target="_blank" rel="noopener noreferrer">Веб-сайт, который показывает цитаты при нажатии на кнопку (JS)</a><br>
-<a href="https://github.com/milenairon/test-task-RIT-Automation" target="_blank" rel="noopener noreferrer">Веб-сайт с карточками планет из Звездных Войн(SWAPI). Нажав на кнопку на карточке, можно перейти на сайт с карточками персонажей нажатой планеты с фильтром по гендеру (Agular на TypeScript) </a><br>
+<a href="https://github.com/milenairon/test-task-RIT-Automation" target="_blank" rel="noopener noreferrer">Веб-сайт с карточками планет и их "обитателей"  с фильтром по гендеру из Звездных Войн (Agular, TypeScript) </a><br>
 
 <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
