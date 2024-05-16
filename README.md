@@ -18,15 +18,16 @@
 </p>
 
 <h2><img width='30' src='https://gogeticon.net/files/2824109/1a210d70508bdd59a3cee6a0109edbe5.png' alt='конверт'/>Ссылки на репозитории моих работ:</h2>
-<a style="text-decoration: none" href="https://github.com/milenairon/how-to-learn" target="_blank">Статичный сайт на JS</a><br>
-<a href="https://github.com/milenairon/russian-travel" target="_blank" rel="noopener noreferrer">Адаптивный сайт на JS</a><br>
-<a href="https://github.com/milenairon/mesto" target="_blank" rel="noopener noreferrer">Одностраничное приложение на JS</a><br>
-<a href="https://github.com/milenairon/react-mesto-api-full-gha" target="_blank" rel="noopener noreferrer">Одностраничное приложение на React и JS</a><br>
-<a href="https://github.com/milenairon/movies-explorer-frontend" target="_blank" rel="noopener noreferrer">Многостраничное приложение(фронтенд) на React и JS</a><br>
-<a href="https://github.com/milenairon/movies-explorer-api" target="_blank" rel="noopener noreferrer">Многостраничное приложение(бэкэнд) на JS</a><br>
+<a style="text-decoration: none" href="https://github.com/milenairon/how-to-learn" target="_blank">Статичный сайт (JS)</a><br>
+<a href="https://github.com/milenairon/russian-travel" target="_blank" rel="noopener noreferrer">Адаптивный сайт (JS)</a><br>
+<a href="https://github.com/milenairon/mesto" target="_blank" rel="noopener noreferrer">Одностраничное приложение (JS)</a><br>
+<a href="https://github.com/milenairon/react-mesto-api-full-gha" target="_blank" rel="noopener noreferrer">Одностраничное приложение (React, JS)</a><br>
+<a href="https://github.com/milenairon/movies-explorer-frontend" target="_blank" rel="noopener noreferrer">Многостраничное приложение - фронтенд (React, JS)</a><br>
+<a href="https://github.com/milenairon/movies-explorer-api" target="_blank" rel="noopener noreferrer">Многостраничное приложение -бэкэнд (JS)</a><br>
 
 <h3><img width='24'/>Ссылки на выполненные тестовые задания:</h3>
-<a href="https://github.com/milenairon/test-task-SiberiaTransAsia" target="_blank" rel="noopener noreferrer">Веб-сайт, который показывает цитаты при нажатии на кнопку</a><br>
+<a href="https://github.com/milenairon/test-task-SiberiaTransAsia" target="_blank" rel="noopener noreferrer">Веб-сайт, который показывает цитаты при нажатии на кнопку (JS)</a><br>
+<a href="https://github.com/milenairon/test-task-RIT-Automation" target="_blank" rel="noopener noreferrer">Веб-сайт с карточками планет из Звездных Войн(SWAPI). Нажав на кнопку на карточке, можно перейти на сайт с карточками персонажей нажатой планеты с фильтром по гендеру (Agular на TypeScript) </a><br>
 
 <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
