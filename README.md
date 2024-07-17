@@ -1,5 +1,5 @@
 <h1 align=center>Привет всем!
-<img src="https://polotnos.cdnbro.com/posts/75440860-stikery-s-nadpisiu-dai-piat-6.jpg" alt="приветствующая ладошка" width='30'/>
+<img src="https://avatars.mds.yandex.net/i?id=fc3224fde6824c7991fa9345969304b1ac3c4fb973023a79-12621368-images-thumbs&n=13" alt="приветствующая ладошка" width='30'/>
 </h1>
 <p align=center>Меня зовут Елена и я web-разработчик</p>
 <p align='center'>
