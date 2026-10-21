@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Если вы будете рады видеть меня в своей команде, то вот <b>почта для связи: elenakonciyalova@mail.ru</b>
 </p><br>
 
-   <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
+   <h2><img width='30' src='https://www.flaticon.com/ru/free-icon/wrench_4539677?term=%D0%B3%D0%B0%D0%B5%D1%87%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BB%D1%8E%D1%87&page=1&position=50&origin=search&related_id=4539677' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
 <p>JavaScript&nbsp;&nbsp;&nbsp; React&nbsp;&nbsp;&nbsp; HTML5&nbsp;&nbsp;&nbsp; CSS3&nbsp;&nbsp;&nbsp; SCSS&nbsp;&nbsp;&nbsp; Figma&nbsp;&nbsp;&nbsp; jQuery&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp; VueJS&nbsp;&nbsp;&nbsp; Angular</p>
