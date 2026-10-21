@@ -1,7 +1,9 @@
-<h1 align=center>Привет всем!
+<div align='center'>
+    <h1 style="display: inline-block">Привет всем!</h1>
 <img src="https://avatars.mds.yandex.net/i?id=fc3224fde6824c7991fa9345969304b1ac3c4fb973023a79-12621368-images-thumbs&n=13" alt="приветствующая ладошка" width='30'/>
-</h1>
-<p align=center>Меня зовут Елена и я web-разработчик</p>
+</div>
+
+<p align='center'>Меня зовут Елена и я web-разработчик</p>
 <div align='center'>
 <img src='https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif' alt='котик за компьютером'>
 </div>
@@ -68,5 +70,9 @@
 
 
 <div align='center' style="weight: 40">Спасибо, что посетили мой профиль на github
-<img width='50' src="https://sun9-71.userapi.com/impg/5JDfk_L1luBTWImxSz041LU7js3tg73Gx22riw/PKmwWOkMqzw.jpg?size=575x326&quality=95&sign=2b730963b423a63c0bab314a8990867f&type=album" alt="рука с желтым сердечком"></p>
+<img width='50' src="https://sun9-71.userapi.com/impg/5JDfk_L1luBTWImxSz041LU7js3tg73Gx22riw/PKmwWOkMqzw.jpg?size=575x326&quality=95&sign=2b730963b423a63c0bab314a8990867f&type=album" alt="рука с желтым сердечком"></div>
+
+
+    
+    
 
