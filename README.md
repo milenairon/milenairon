@@ -64,6 +64,12 @@
 </div><br>
 
 
+---
+
+
+<div align='center' style="weight: 40">Спасибо, что посетили мой профиль на github
+<img width='50' src="https://sun9-71.userapi.com/impg/5JDfk_L1luBTWImxSz041LU7js3tg73Gx22riw/PKmwWOkMqzw.jpg?size=575x326&quality=95&sign=2b730963b423a63c0bab314a8990867f&type=album" alt="рука с желтым сердечком"></p>
+
   <style>
   .cards {
     display: flex;
@@ -79,8 +85,3 @@
   }
     
   </style>
----
-
-
-<div align='center' style="weight: 40">Спасибо, что посетили мой профиль на github
-<img width='50' src="https://sun9-71.userapi.com/impg/5JDfk_L1luBTWImxSz041LU7js3tg73Gx22riw/PKmwWOkMqzw.jpg?size=575x326&quality=95&sign=2b730963b423a63c0bab314a8990867f&type=album" alt="рука с желтым сердечком"></p>
