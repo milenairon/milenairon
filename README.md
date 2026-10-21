@@ -24,7 +24,7 @@
    <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<p>JavaScript,  React  HTML5  CSS3  SCSS  Figma   jQuery   TypeScript   VueJS   Angular</p>
+<p>JavaScript&nbsp;&nbsp;&nbsp; React&nbsp;&nbsp;&nbsp; HTML5&nbsp;&nbsp;&nbsp; CSS3&nbsp;&nbsp;&nbsp; SCSS&nbsp;&nbsp;&nbsp; Figma&nbsp;&nbsp;&nbsp; jQuery&nbsp;&nbsp;&nbsp; TypeScript&nbsp;&nbsp;&nbsp; VueJS&nbsp;&nbsp;&nbsp; Angular</p>
 </div>
 
 
