@@ -26,43 +26,43 @@
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
 <span style="margin: 0 40px; border-color: #24051F">JavaScript</span>
 <span style="margin: 0 40px; border-color: #490B3F">React</span>
-<div style="margin: 0 40px; border-color: #6F1160">HTML5</div>
-<div style="margin: 0 40px; border-color: #951781">CSS3</div>
-<div style="margin: 0 40px; border-color: #BB1DA1">SCSS</div>
-<div style="margin: 0 40px; border-color: #E022C2">Figma</div>
-<div style="margin: 0 40px; border-color: #BB1DA1">jQuery</div>
-<div style="margin: 0 40px; border-color: #951781">TypeScript</div>
-<div style="margin: 0 40px; border-color: #6F1160">VueJS</div>
-<div style="margin: 0 40px; border-color: #490B3F">Angular</div>
+<span style="margin: 0 40px; border-color: #6F1160">HTML5</span>
+<span style="margin: 0 40px; border-color: #951781">CSS3</span>
+<span style="margin: 0 40px; border-color: #BB1DA1">SCSS</span>
+<span style="margin: 0 40px; border-color: #E022C2">Figma</span>
+<span style="margin: 0 40px; border-color: #BB1DA1">jQuery</span>
+<span style="margin: 0 40px; border-color: #951781">TypeScript</span>
+<span style="margin: 0 40px; border-color: #6F1160">VueJS</span>
+<span style="margin: 0 40px; border-color: #490B3F">Angular</span>
 </div>
 
 
 <h3>Бэкэнд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<div style="margin: 0 40px; border-color: #020824">Node.js</div>
-<div style="margin: 0 40px; border-color: #041049">Express.js</div>
-<div style="margin: 0 40px; border-color: #06186F">PHP</div>
-<div style="margin: 0 40px; border-color: #082095">1С-Битрикс</div>
-<div style="margin: 0 40px; border-color: #0B28BB">MongoDB</div>
-<div style="margin: 0 40px; border-color: #0D30E0">SQL</div>
-<div style="margin: 0 40px; border-color: #0B28BB">NoSQL</div>
-<div style="margin: 0 40px; border-color: #082095">PostgreSQL</div>
-<div style="margin: 0 40px; border-color: #06186F">Nginx</div>
+<span style="margin: 0 40px; border-color: #020824">Node.js</span>
+<span style="margin: 0 40px; border-color: #041049">Express.js</span>
+<span style="margin: 0 40px; border-color: #06186F">PHP</span>
+<span style="margin: 0 40px; border-color: #082095">1С-Битрикс</span>
+<span style="margin: 0 40px; border-color: #0B28BB">MongoDB</span>
+<span style="margin: 0 40px; border-color: #0D30E0">SQL</span>
+<span style="margin: 0 40px; border-color: #0B28BB">NoSQL</span>
+<span style="margin: 0 40px; border-color: #082095">PostgreSQL</span>
+<span style="margin: 0 40px; border-color: #06186F">Nginx</span>
 </div>
 
 <h3>Общее</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<div style="margin: 0 40px; border-color: #232408">Git</div>
-<div style="margin: 0 40px; border-color: #494910">npm</div>
-<div style="margin: 0 40px; border-color: #6E6F18">REST API</div>
-<div style="margin: 0 40px; border-color: #949520">Postman</div>
-<div style="margin: 0 40px; border-color: #B9BB29">Webpack</div>
-<div style="margin: 0 40px; border-color: #DFE031">Vite</div>
-<div style="margin: 0 40px; border-color: #B9BB29">Gulp</div>
-<div style="margin: 0 40px; border-color: #949520">UIKit</div>
-<div style="margin: 0 40px; border-color: #6E6F18">Wordpress</div>
-<div style="margin: 0 40px; border-color: #494910">OpenCart</div>
-<div style="margin: 0 40px; border-color: #232408">Docker</div>
+<span style="margin: 0 40px; border-color: #232408">Git</span>
+<span style="margin: 0 40px; border-color: #494910">npm</span>
+<span style="margin: 0 40px; border-color: #6E6F18">REST API</span>
+<span style="margin: 0 40px; border-color: #949520">Postman</span>
+<span style="margin: 0 40px; border-color: #B9BB29">Webpack</span>
+<span style="margin: 0 40px; border-color: #DFE031">Vite</span>
+<span style="margin: 0 40px; border-color: #B9BB29">Gulp</span>
+<span style="margin: 0 40px; border-color: #949520">UIKit</span>
+<span style="margin: 0 40px; border-color: #6E6F18">Wordpress</span>
+<span style="margin: 0 40px; border-color: #494910">OpenCart</span>
+<span style="margin: 0 40px; border-color: #232408">Docker</span>
 </div><br>
 
 
