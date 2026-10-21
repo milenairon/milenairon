@@ -2,18 +2,20 @@
 <img src="https://avatars.mds.yandex.net/i?id=fc3224fde6824c7991fa9345969304b1ac3c4fb973023a79-12621368-images-thumbs&n=13" alt="приветствующая ладошка" width='30'/>
 </h1>
 <p align=center>Меня зовут Елена и я web-разработчик</p>
-<p align='center'>
+<div align='center'>
 <img src='https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif' alt='котик за компьютером'>
-</p>
+</div>
 
 <h2><img width='30' src='https://yt3.ggpht.com/ytc/AKedOLQTMlNsgEeKpIaInj42WsnAfZU3RiZEyZaj2AjJ=s900-c-k-c0x00ffffff-no-rj' alt='силуэт человека'/>
 Обо мне:</h2>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Я frontend-разработчик, прошла обучение по программе профессиональной переподготовки «Веб-разработчик». Во время обучения начала получать практический опыт. За все время работала в двух компаниях. Обе компании занимались разработкой сайтов полного цикла, а также их поддержкой.<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Я frontend-разработчик, прошла обучение по программе профессиональной переподготовки «Веб-разработчик». Во время обучения начала получать практический опыт. За все время работала в двух компаниях. Обе компании занимались разработкой сайтов полного цикла, а также их поддержкой.
+</p>
+<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Работаю с JavaScript, React и др. по Figma. Ценю доступность, удобство пользовательского взаимодействия, чистоту кода, оптимизацию загрузки страниц, релиз без сюрпризов для бэка и менеджера. Постоянно осваиваю новое в frontend-разработке.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сейчас моей целью является <b>активный поиск постоянной работы</b> компанию с интересным продуктом на позицию <b> web-разработчика</b>, где я смогу быть полезной и реализоваться как хороший специалист.<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сейчас моей целью является <b>активный поиск постоянной работы</b> компанию с интересным продуктом на позицию <b> web-разработчика</b>, где я смогу быть полезной и реализоваться как хороший специалист.
+</p>
+<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Если вы будете рады видеть меня в своей команде, то вот <b>почта для связи: elenakonciyalova@mail.ru</b>
 </p><br>
 
@@ -61,6 +63,7 @@
 <div class="card" style="border-color: #232408">Docker</div>
 </div><br>
 
+
   <style>
   .cards {
     display: flex;
@@ -76,9 +79,8 @@
   }
     
   </style>
-
 ---
 
-</p>
-<p align='center' style="weight: 40">Спасибо, что посетили мой профиль на github
+
+<div align='center' style="weight: 40">Спасибо, что посетили мой профиль на github
 <img width='50' src="https://sun9-71.userapi.com/impg/5JDfk_L1luBTWImxSz041LU7js3tg73Gx22riw/PKmwWOkMqzw.jpg?size=575x326&quality=95&sign=2b730963b423a63c0bab314a8990867f&type=album" alt="рука с желтым сердечком"></p>
