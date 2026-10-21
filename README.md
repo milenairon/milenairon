@@ -1,6 +1,6 @@
 <div align='center'>
+    <img src="https://avatars.mds.yandex.net/i?id=fc3224fde6824c7991fa9345969304b1ac3c4fb973023a79-12621368-images-thumbs&n=13" alt="приветствующая ладошка" width='30'/>
     <h1 style="display: inline-block">Привет всем!</h1>
-<img src="https://avatars.mds.yandex.net/i?id=fc3224fde6824c7991fa9345969304b1ac3c4fb973023a79-12621368-images-thumbs&n=13" alt="приветствующая ладошка" width='30'/>
 </div>
 
 <p align='center'>Меня зовут Елена и я web-разработчик</p>
@@ -24,8 +24,8 @@
    <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #24051F">JavaScript</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #490B3F">React</div>
+<span style="margin: 0 20px; border-color: #24051F">JavaScript</span>
+<span style="margin: 0 20px; border-color: #490B3F">React</span>
 <div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6F1160">HTML5</div>
 <div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #951781">CSS3</div>
 <div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #BB1DA1">SCSS</div>
