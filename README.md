@@ -24,16 +24,7 @@
    <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<span style="margin: 0 40px; border-color: #24051F">JavaScript</span>
-<span style="margin: 0 40px; border-color: #490B3F">React</span>
-<span style="margin: 0 40px; border-color: #6F1160">HTML5</span>
-<span style="margin: 0 40px; border-color: #951781">CSS3</span>
-<span style="margin: 0 40px; border-color: #BB1DA1">SCSS</span>
-<span style="margin: 0 40px; border-color: #E022C2">Figma</span>
-<span style="margin: 0 40px; border-color: #BB1DA1">jQuery</span>
-<span style="margin: 0 40px; border-color: #951781">TypeScript</span>
-<span style="margin: 0 40px; border-color: #6F1160">VueJS</span>
-<span style="margin: 0 40px; border-color: #490B3F">Angular</span>
+<p>JavaScript,  React  HTML5  CSS3  SCSS  Figma   jQuery   TypeScript   VueJS   Angular</p>
 </div>
 
 
