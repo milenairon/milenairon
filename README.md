@@ -30,30 +30,12 @@
 
 <h3>Бэкэнд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<span style="margin: 0 40px; border-color: #020824">Node.js</span>
-<span style="margin: 0 40px; border-color: #041049">Express.js</span>
-<span style="margin: 0 40px; border-color: #06186F">PHP</span>
-<span style="margin: 0 40px; border-color: #082095">1С-Битрикс</span>
-<span style="margin: 0 40px; border-color: #0B28BB">MongoDB</span>
-<span style="margin: 0 40px; border-color: #0D30E0">SQL</span>
-<span style="margin: 0 40px; border-color: #0B28BB">NoSQL</span>
-<span style="margin: 0 40px; border-color: #082095">PostgreSQL</span>
-<span style="margin: 0 40px; border-color: #06186F">Nginx</span>
+    <p>Node.js&nbsp;&nbsp;&nbsp; Express.js&nbsp;&nbsp;&nbsp; PHP&nbsp;&nbsp;&nbsp; 1С-Битрикс&nbsp;&nbsp;&nbsp; MongoDB&nbsp;&nbsp;&nbsp; SQL&nbsp;&nbsp;&nbsp; NoSQL&nbsp;&nbsp;&nbsp; PostgreSQL&nbsp;&nbsp;&nbsp; Nginx</p>
 </div>
 
 <h3>Общее</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<span style="margin: 0 40px; border-color: #232408">Git</span>
-<span style="margin: 0 40px; border-color: #494910">npm</span>
-<span style="margin: 0 40px; border-color: #6E6F18">REST API</span>
-<span style="margin: 0 40px; border-color: #949520">Postman</span>
-<span style="margin: 0 40px; border-color: #B9BB29">Webpack</span>
-<span style="margin: 0 40px; border-color: #DFE031">Vite</span>
-<span style="margin: 0 40px; border-color: #B9BB29">Gulp</span>
-<span style="margin: 0 40px; border-color: #949520">UIKit</span>
-<span style="margin: 0 40px; border-color: #6E6F18">Wordpress</span>
-<span style="margin: 0 40px; border-color: #494910">OpenCart</span>
-<span style="margin: 0 40px; border-color: #232408">Docker</span>
+    <p>Git&nbsp;&nbsp;&nbsp; npm&nbsp;&nbsp;&nbsp; REST API&nbsp;&nbsp;&nbsp; Postman&nbsp;&nbsp;&nbsp; Webpack&nbsp;&nbsp;&nbsp; Vite&nbsp;&nbsp;&nbsp; Gulp&nbsp;&nbsp;&nbsp; UIKit&nbsp;&nbsp;&nbsp; Wordpress&nbsp;&nbsp;&nbsp; OpenCart&nbsp;&nbsp;&nbsp; Docker</p>
 </div><br>
 
 
