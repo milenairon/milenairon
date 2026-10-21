@@ -24,45 +24,45 @@
    <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<span style="margin: 0 20px; border-color: #24051F">JavaScript</span>
-<span style="margin: 0 20px; border-color: #490B3F">React</span>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6F1160">HTML5</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #951781">CSS3</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #BB1DA1">SCSS</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #E022C2">Figma</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #BB1DA1">jQuery</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #951781">TypeScript</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6F1160">VueJS</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #490B3F">Angular</div>
+<span style="margin: 0 40px; border-color: #24051F">JavaScript</span>
+<span style="margin: 0 40px; border-color: #490B3F">React</span>
+<div style="margin: 0 40px; border-color: #6F1160">HTML5</div>
+<div style="margin: 0 40px; border-color: #951781">CSS3</div>
+<div style="margin: 0 40px; border-color: #BB1DA1">SCSS</div>
+<div style="margin: 0 40px; border-color: #E022C2">Figma</div>
+<div style="margin: 0 40px; border-color: #BB1DA1">jQuery</div>
+<div style="margin: 0 40px; border-color: #951781">TypeScript</div>
+<div style="margin: 0 40px; border-color: #6F1160">VueJS</div>
+<div style="margin: 0 40px; border-color: #490B3F">Angular</div>
 </div>
 
 
 <h3>Бэкэнд</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #020824">Node.js</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #041049">Express.js</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #06186F">PHP</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #082095">1С-Битрикс</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #0B28BB">MongoDB</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #0D30E0">SQL</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #0B28BB">NoSQL</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #082095">PostgreSQL</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #06186F">Nginx</div>
+<div style="margin: 0 40px; border-color: #020824">Node.js</div>
+<div style="margin: 0 40px; border-color: #041049">Express.js</div>
+<div style="margin: 0 40px; border-color: #06186F">PHP</div>
+<div style="margin: 0 40px; border-color: #082095">1С-Битрикс</div>
+<div style="margin: 0 40px; border-color: #0B28BB">MongoDB</div>
+<div style="margin: 0 40px; border-color: #0D30E0">SQL</div>
+<div style="margin: 0 40px; border-color: #0B28BB">NoSQL</div>
+<div style="margin: 0 40px; border-color: #082095">PostgreSQL</div>
+<div style="margin: 0 40px; border-color: #06186F">Nginx</div>
 </div>
 
 <h3>Общее</h3>
 <div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #232408">Git</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #494910">npm</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6E6F18">REST API</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #949520">Postman</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #B9BB29">Webpack</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #DFE031">Vite</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #B9BB29">Gulp</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #949520">UIKit</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6E6F18">Wordpress</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #494910">OpenCart</div>
-<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #232408">Docker</div>
+<div style="margin: 0 40px; border-color: #232408">Git</div>
+<div style="margin: 0 40px; border-color: #494910">npm</div>
+<div style="margin: 0 40px; border-color: #6E6F18">REST API</div>
+<div style="margin: 0 40px; border-color: #949520">Postman</div>
+<div style="margin: 0 40px; border-color: #B9BB29">Webpack</div>
+<div style="margin: 0 40px; border-color: #DFE031">Vite</div>
+<div style="margin: 0 40px; border-color: #B9BB29">Gulp</div>
+<div style="margin: 0 40px; border-color: #949520">UIKit</div>
+<div style="margin: 0 40px; border-color: #6E6F18">Wordpress</div>
+<div style="margin: 0 40px; border-color: #494910">OpenCart</div>
+<div style="margin: 0 40px; border-color: #232408">Docker</div>
 </div><br>
 
 
