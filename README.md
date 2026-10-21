@@ -21,46 +21,46 @@
 
    <h2><img width='30' src='https://indasil.club/uploads/posts/2022-12/1669951541_41-indasil-club-p-risunok-dlya-detei-gaechnii-klyuch-vkontak-61.png' alt='гаечный ключ'>Технологии и инструменты:</h2>
 <h3>Фронтенд</h3>
-<div class="cards">
-<div class="card" style="border-color: #24051F">JavaScript</div>
-<div class="card" style="border-color: #490B3F">React</div>
-<div class="card" style="border-color: #6F1160">HTML5</div>
-<div class="card" style="border-color: #951781">CSS3</div>
-<div class="card" style="border-color: #BB1DA1">SCSS</div>
-<div class="card" style="border-color: #E022C2">Figma</div>
-<div class="card" style="border-color: #BB1DA1">jQuery</div>
-<div class="card" style="border-color: #951781">TypeScript</div>
-<div class="card" style="border-color: #6F1160">VueJS</div>
-<div class="card" style="border-color: #490B3F">Angular</div>
+<div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #24051F">JavaScript</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #490B3F">React</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6F1160">HTML5</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #951781">CSS3</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #BB1DA1">SCSS</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #E022C2">Figma</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #BB1DA1">jQuery</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #951781">TypeScript</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6F1160">VueJS</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #490B3F">Angular</div>
 </div>
 
 
 <h3>Бэкэнд</h3>
-<div class="cards">
-<div class="card" style="border-color: #020824">Node.js</div>
-<div class="card" style="border-color: #041049">Express.js</div>
-<div class="card" style="border-color: #06186F">PHP</div>
-<div class="card" style="border-color: #082095">1С-Битрикс</div>
-<div class="card" style="border-color: #0B28BB">MongoDB</div>
-<div class="card" style="border-color: #0D30E0">SQL</div>
-<div class="card" style="border-color: #0B28BB">NoSQL</div>
-<div class="card" style="border-color: #082095">PostgreSQL</div>
-<div class="card" style="border-color: #06186F">Nginx</div>
+<div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #020824">Node.js</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #041049">Express.js</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #06186F">PHP</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #082095">1С-Битрикс</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #0B28BB">MongoDB</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #0D30E0">SQL</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #0B28BB">NoSQL</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #082095">PostgreSQL</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #06186F">Nginx</div>
 </div>
 
 <h3>Общее</h3>
-<div class="cards">
-<div class="card" style="border-color: #232408">Git</div>
-<div class="card" style="border-color: #494910">npm</div>
-<div class="card" style="border-color: #6E6F18">REST API</div>
-<div class="card" style="border-color: #949520">Postman</div>
-<div class="card" style="border-color: #B9BB29">Webpack</div>
-<div class="card" style="border-color: #DFE031">Vite</div>
-<div class="card" style="border-color: #B9BB29">Gulp</div>
-<div class="card" style="border-color: #949520">UIKit</div>
-<div class="card" style="border-color: #6E6F18">Wordpress</div>
-<div class="card" style="border-color: #494910">OpenCart</div>
-<div class="card" style="border-color: #232408">Docker</div>
+<div style="display: flex;justify-content: center;gap: 20px;flex-wrap: wrap;">
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #232408">Git</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #494910">npm</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6E6F18">REST API</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #949520">Postman</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #B9BB29">Webpack</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #DFE031">Vite</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #B9BB29">Gulp</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #949520">UIKit</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #6E6F18">Wordpress</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #494910">OpenCart</div>
+<div style="border: 2.5px solid red;width: fit-content;padding: 5px 10px; border-color: #232408">Docker</div>
 </div><br>
 
 
@@ -70,18 +70,3 @@
 <div align='center' style="weight: 40">Спасибо, что посетили мой профиль на github
 <img width='50' src="https://sun9-71.userapi.com/impg/5JDfk_L1luBTWImxSz041LU7js3tg73Gx22riw/PKmwWOkMqzw.jpg?size=575x326&quality=95&sign=2b730963b423a63c0bab314a8990867f&type=album" alt="рука с желтым сердечком"></p>
 
-  <style>
-  .cards {
-    display: flex;
-   justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-  }
-  
-  .card {
-  border: 2.5px solid red; 
-  width: fit-content; 
-  padding: 5px 10px
-  }
-    
-  </style>
